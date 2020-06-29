@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serasa>
+   <apt cpf="12139598722" data="10/11/2016">
+      <tipo>cheque sem fundo</tipo>
+      <valor>1500.00</valor>
+   </apt>
+   <apt cpf="45459598722" data="10/11/2008">
+      <tipo>cheque sem fundo</tipo>
+      <valor>500.00</valor>
+   </apt>
+   <apt cpf="12139598722" data="10/13/2007">
+      <tipo>protesto</tipo>
+      <valor>150.00</valor>
+   </apt>
+   <apt cpf="76767798722" data="10/07/2012">
+      <tipo>protesto</tipo>
+      <valor>1050.00</valor>
+   </apt>
+   <apt cpf="12139598722" data="10/11/1997">
+      <tipo>parcela financiamento</tipo>
+      <valor>15.00</valor>
+   </apt>
+   <apt cpf="99999598722" data="15/11/2009">
+      <tipo>cheque sem fundo</tipo>
+      <valor>91500.00</valor>
+   </apt>
+   <apt cpf="12139598722" data="31/12/2015">
+      <tipo>parcela finaciamento</tipo>
+      <valor>100.00</valor>
+   </apt>
+   <apt cpf="99999598722" data="10/08/2003">
+      <tipo>cheque sem fundo</tipo>
+      <valor>10.00</valor>
+   </apt>
+   <apt cpf="12112398722" data="10/11/2005">
+      <tipo>protesto</tipo>
+      <valor>910.00</valor>
+   </apt>
+   <apt cpf="12439598722" data="04/01/2007">
+      <tipo>protesto</tipo>
+      <valor>125.00</valor>
+   </apt>
+   <apt cpf="12112398722" data="10/11/2005">
+      <tipo>protesto</tipo>
+      <valor>910.00</valor>
+   </apt>
+   <apt cpf="12439598722" data="04/01/2007">
+      <tipo>protesto</tipo>
+      <valor>125.00</valor>
+   </apt>
+</serasa>

@@ -1,0 +1,40 @@
+body {
+    background-color: #7952b3;
+    height: 100vh;
+}
+
+.container { 
+    max-width: 1440px;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    color: #322153;
+    background-color: #2fad6a;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.btn-serasa {
+    color: aliceblue;
+    background-color: #322153;
+}
+
+.btn-serasa:hover {
+    color: aliceblue;
+    background-color: #4b337c;
+}
+
+.display-4 {
+    margin-bottom: 40px;
+}
+
+
+thead tr {
+    background-color: #211638;
+    text-align: center;
+}
+
+tbody tr {
+    background-color: #322153;
+    text-align: center;
+}
